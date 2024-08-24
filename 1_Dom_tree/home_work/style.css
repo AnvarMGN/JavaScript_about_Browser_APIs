@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    outline: none;
+    font-family: "Lato", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    padding-left: calc(50% - 400px);
+    padding-right: calc(50% - 400px);
+}
+
+.class-boxs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: baseline;
+    gap: 10px;
+}

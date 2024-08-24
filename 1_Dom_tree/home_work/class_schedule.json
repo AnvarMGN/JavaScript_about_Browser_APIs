@@ -1,0 +1,20 @@
+ [
+    {
+        "class": "Футбол",
+        "time": "14:00",
+        "maximumParticipants": 20,
+        "registeredParticipants": 0
+    },
+    {
+        "class": "Баскетбол",
+        "time": "15:30",
+        "maximumParticipants": 10,
+        "registeredParticipants": 0
+    },
+    {
+        "class": "Атлетика",
+        "time": "17:00",
+        "maximumParticipants": 30,
+        "registeredParticipants": 0
+    }
+]
